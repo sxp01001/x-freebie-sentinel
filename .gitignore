@@ -1,0 +1,9 @@
+# 本机运行态，不入库
+sentinel.db
+logs/
+usage.jsonl
+credits.json
+v2_classification.json
+__pycache__/
+*.pyc
+.DS_Store
